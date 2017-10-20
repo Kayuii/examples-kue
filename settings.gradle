@@ -16,3 +16,7 @@ include 'services:webservice'
 */
 
 rootProject.name = 'examples-kue'
+
+include "kue-core"
+include "kue-http"
+include "kue-example"
